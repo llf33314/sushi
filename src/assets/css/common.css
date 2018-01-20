@@ -1,0 +1,38 @@
+.diancanlist .el-input-group__append{
+  padding: 0 0.7rem;
+}
+.diancanlist .el-input-group__prepend{
+  padding: 0 0.7rem;
+}
+.diancanlist .el-input__inner{
+  text-align: center;
+}
+.huodongquery .el-input__inner{
+  padding-left: 2rem;
+}
+.huodongquery .el-input__prefix{
+  left: 0.6rem;
+}
+.order-top .el-tabs__item{
+  height: 2rem;
+  line-height: 2rem;
+}
+.flipx {
+  -moz-transform:scaleX(-1);
+  -webkit-transform:scaleX(-1);
+  -o-transform:scaleX(-1);
+  transform:scaleX(-1);
+}
+.rotate180 {
+   filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+   -moz-transform: rotateY(180deg);
+   -o-transform: rotateY(180deg);
+   -webkit-transform: rotateY(180deg);
+   transform: rotateY(180deg);
+}
+.floatl{
+  float: left;
+}
+.floatr{
+  float: right;
+}
